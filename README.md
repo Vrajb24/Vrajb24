@@ -4,7 +4,8 @@
 -->
 
 <h1 align="center">👋 Hey there, I’m Vraj Patel!</h1>
-<h3 align="center">M.Tech in Computer Science @ IIT Kanpur • I use Arch BTW </h3>
+<h3 align="center">M.Tech in Computer Science @ IIT Kanpur • I use <img src="https://icon2.cleanpng.com/20180403/oiw/avb4mnzq6.webp" height="20"/> BTW </h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vrajb24&color=brightgreen" alt="Profile views" />  
