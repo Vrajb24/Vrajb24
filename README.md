@@ -4,7 +4,7 @@
 -->
 
 <h1 align="center">👋 Hey there, I’m Vraj Patel!</h1>
-<h3 align="center">M.Tech in Computer Science @ IIT Kanpur <img src="https://upload.wikimedia.org/wikipedia/en/4/4e/IIT_Kanpur_Logo.png" alt="IIT Kanpur Logo" height="24" style="vertical-align:middle;"/>
+<h3 align="center">M.Tech in Computer Science @ IIT Kanpur <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-76gLRAVrPECGX5QfmdoLGmvZ_cDWC0s-G7BU3b86CcFQ04qRYcHti3Y&s=10" alt="IIT Kanpur Logo" height="24" style="vertical-align:middle;"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vrajb24&color=brightgreen" alt="Profile views" />  
